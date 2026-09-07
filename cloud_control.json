@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-09-07 23:43:36",
+  "updated_at": "2026-09-07 23:43:42",
   "updated_by": "Master Admin",
   "global_kill_switch": false,
   "global_kill_message": "تم إيقاف تشغيل التطبيق مؤقتاً لأعمال الصيانة والتحديث. يرجى مراجعة إدارة BeOn.",
@@ -13,7 +13,7 @@
     "max_discount_percent": 15
   },
   "announcement": {
-    "active": false,
+    "active": true,
     "text": "hhhhhhhh",
     "type": "info"
   },
