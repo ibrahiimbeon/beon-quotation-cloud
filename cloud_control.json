@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-09-08 02:40:16",
+  "updated_at": "2026-09-08 02:45:03",
   "updated_by": "Master Admin",
   "global_kill_switch": false,
   "global_kill_message": "تم إيقاف تشغيل التطبيق مؤقتاً لأعمال الصيانة والتحديث. يرجى مراجعة إدارة BeOn.",
@@ -9,8 +9,9 @@
     "allow_catalog_edit": true,
     "allow_ai_gateway": true,
     "allow_delete_history": true,
-    "allow_agents_edit": false,
-    "max_discount_percent": 100
+    "allow_agents_edit": true,
+    "max_discount_percent": 50,
+    "allow_package_delete": false
   },
   "announcement": {
     "active": false,
@@ -24,7 +25,7 @@
       "username": "ibrah",
       "os": "Windows 11",
       "app_version": "2.6.0",
-      "last_seen": "2026-09-08 02:39:56"
+      "last_seen": "2026-09-08 02:43:53"
     }
   },
   "remote_catalog": {
