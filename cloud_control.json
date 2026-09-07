@@ -1,10 +1,15 @@
 {
   "version": "1.0",
-  "updated_at": "2026-09-08 01:28:01",
+  "updated_at": "2026-09-08 01:28:36",
   "updated_by": "Master Admin",
   "global_kill_switch": false,
   "global_kill_message": "تم إيقاف تشغيل التطبيق مؤقتاً لأعمال الصيانة والتحديث. يرجى مراجعة إدارة BeOn.",
-  "banned_machines": {},
+  "banned_machines": {
+    "3CCEE0CDDFA7DF19": {
+      "reason": "تم إيقاف صلاحية هذا البرنامج من قبل إدارة BeOn.",
+      "date": "2026-09-08 01:28"
+    }
+  },
   "feature_flags": {
     "allow_catalog_edit": false,
     "allow_ai_gateway": false,
@@ -24,7 +29,7 @@
       "username": "ibrah",
       "os": "Windows 11",
       "app_version": "2.6.0",
-      "last_seen": "2026-09-08 01:27:57"
+      "last_seen": "2026-09-08 01:28:32"
     }
   },
   "remote_catalog": {
