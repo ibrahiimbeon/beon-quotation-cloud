@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-09-09 18:42:49",
+  "updated_at": "2026-09-09 18:47:22",
   "updated_by": "Master Admin",
   "global_kill_switch": false,
   "global_kill_message": "تم إيقاف تشغيل التطبيق مؤقتاً لأعمال الصيانة والتحديث. يرجى مراجعة إدارة BeOn.",
@@ -25,7 +25,7 @@
       "username": "ibrah",
       "os": "Windows 11",
       "app_version": "2.6.0",
-      "last_seen": "2026-09-08 03:31:07"
+      "last_seen": "2026-09-09 18:47:20"
     },
     "A0493E42FAEF10D7": {
       "machine_id": "A0493E42FAEF10D7",
