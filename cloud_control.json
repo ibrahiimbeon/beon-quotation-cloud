@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-09-10 09:32:16",
+  "updated_at": "2026-09-10 09:46:41",
   "updated_by": "Master Admin",
   "global_kill_switch": false,
   "global_kill_message": "تم إيقاف تشغيل التطبيق مؤقتاً لأعمال الصيانة والتحديث. يرجى مراجعة إدارة BeOn.",
@@ -32,7 +32,7 @@
       "app_version": "2.6.0",
       "last_seen": "2026-09-10 09:32:09",
       "perf": {
-        "updated_at": "2026-09-10 09:32:15",
+        "updated_at": "2026-09-10 09:46:40",
         "lines": [
           "keepme"
         ]
