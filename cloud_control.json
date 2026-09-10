@@ -1,15 +1,10 @@
 {
   "version": "1.0",
-  "updated_at": "2026-09-10 10:00:54",
+  "updated_at": "2026-09-10 10:15:02",
   "updated_by": "Master Admin",
   "global_kill_switch": false,
   "global_kill_message": "تم إيقاف تشغيل التطبيق مؤقتاً لأعمال الصيانة والتحديث. يرجى مراجعة إدارة BeOn.",
-  "banned_machines": {
-    "A0493E42FAEF10D7": {
-      "reason": "تم إيقاف صلاحية هذا البرنامج من قبل إدارة BeOn.",
-      "date": "2026-09-10 07:32"
-    }
-  },
+  "banned_machines": {},
   "feature_flags": {
     "allow_catalog_edit": true,
     "allow_ai_gateway": true,
