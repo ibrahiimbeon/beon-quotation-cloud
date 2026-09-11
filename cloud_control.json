@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-09-11 18:58:43",
+  "updated_at": "2026-09-11 19:14:41",
   "updated_by": "Master Admin",
   "global_kill_switch": false,
   "global_kill_message": "تم إيقاف تشغيل التطبيق مؤقتاً لأعمال الصيانة والتحديث. يرجى مراجعة إدارة BeOn.",
@@ -24,27 +24,21 @@
       "username": "ibrah",
       "os": "Windows 11",
       "app_version": "2.11.1",
-      "last_seen": "2026-09-11 18:58:42",
+      "last_seen": "2026-09-11 19:14:40",
       "stats": {
         "quotes_count": 0,
         "last_quote_at": "",
         "agent": "ibrahim",
         "ram_total_gb": 15.9,
-        "ram_free_gb": 10.0,
-        "ram_used_gb": 5.9,
+        "ram_free_gb": 10.4,
+        "ram_used_gb": 5.5,
         "disk_total_gb": 118.3,
-        "disk_free_gb": 3.3,
+        "disk_free_gb": 3.2,
         "disk_used_gb": 115.0
       },
       "perf": {
-        "updated_at": "2026-09-11 18:58:42",
+        "updated_at": "2026-09-11 19:14:40",
         "lines": [
-          "2026-09-11 18:16:16 paint_memdouh 1ms OK",
-          "2026-09-11 18:16:16 paint_memdouh 0ms OK",
-          "2026-09-11 18:16:16 paint_memdouh 0ms OK",
-          "2026-09-11 18:16:16 paint_memdouh 0ms OK",
-          "2026-09-11 18:16:16 paint_memdouh 0ms OK",
-          "2026-09-11 18:16:16 paint_memdouh 1ms OK",
           "2026-09-11 18:16:17 paint_memdouh 0ms OK",
           "2026-09-11 18:16:17 paint_memdouh 0ms OK",
           "2026-09-11 18:16:17 paint_memdouh 0ms OK",
@@ -68,7 +62,13 @@
           "2026-09-11 18:57:54 live_preview 30ms OK",
           "2026-09-11 18:57:54 live_preview 0ms OK",
           "2026-09-11 18:57:55 live_preview 0ms OK",
-          "2026-09-11 18:57:55 BOOT v2.11.1 RAM=15.9GB OK"
+          "2026-09-11 18:57:55 BOOT v2.11.1 RAM=15.9GB OK",
+          "2026-09-11 19:07:53 live_preview 76ms OK",
+          "2026-09-11 19:07:53 live_preview 1ms OK",
+          "2026-09-11 19:14:18 live_preview 33ms OK",
+          "2026-09-11 19:14:18 live_preview 0ms OK",
+          "2026-09-11 19:14:19 live_preview 0ms OK",
+          "2026-09-11 19:14:19 BOOT v2.11.2 RAM=15.9GB OK"
         ]
       }
     }
