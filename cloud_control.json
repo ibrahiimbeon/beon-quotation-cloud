@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-09-11 21:44:50",
+  "updated_at": "2026-09-11 22:13:57",
   "updated_by": "Master Admin",
   "global_kill_switch": false,
   "global_kill_message": "تم إيقاف تشغيل التطبيق مؤقتاً لأعمال الصيانة والتحديث. يرجى مراجعة إدارة BeOn.",
@@ -24,7 +24,7 @@
       "username": "ibrah",
       "os": "Windows 11",
       "app_version": "2.12.3",
-      "last_seen": "2026-09-11 21:44:49",
+      "last_seen": "2026-09-11 22:13:56",
       "stats": {
         "quotes_count": 1,
         "last_quote_at": "2026-09-11 20:43:56",
@@ -37,21 +37,8 @@
         "disk_used_gb": 114.7
       },
       "perf": {
-        "updated_at": "2026-09-11 21:44:49",
+        "updated_at": "2026-09-11 22:13:56",
         "lines": [
-          "2026-09-11 20:54:55 live_preview 0ms OK",
-          "2026-09-11 20:54:55 live_preview 0ms OK",
-          "2026-09-11 20:54:55 live_preview 0ms OK",
-          "2026-09-11 21:03:27 live_preview 0ms OK",
-          "2026-09-11 21:03:27 live_preview 0ms OK",
-          "2026-09-11 21:03:27 live_preview 0ms OK",
-          "2026-09-11 21:27:18 live_preview 72ms OK",
-          "2026-09-11 21:27:18 live_preview 0ms OK",
-          "2026-09-11 21:32:10 live_preview 73ms OK",
-          "2026-09-11 21:32:10 live_preview 0ms OK",
-          "2026-09-11 21:36:40 live_preview 70ms OK",
-          "2026-09-11 21:36:40 live_preview 0ms OK",
-          "2026-09-11 21:36:53 live_preview 68ms OK",
           "2026-09-11 21:36:53 live_preview 0ms OK",
           "2026-09-11 21:43:18 live_preview 31ms OK",
           "2026-09-11 21:43:18 live_preview 0ms OK",
@@ -68,7 +55,20 @@
           "2026-09-11 21:43:46 live_preview 0ms OK",
           "2026-09-11 21:43:53 live_preview 0ms OK",
           "2026-09-11 21:43:53 live_preview 0ms OK",
-          "2026-09-11 21:43:53 live_preview 0ms OK"
+          "2026-09-11 21:43:53 live_preview 0ms OK",
+          "2026-09-11 21:45:42 live_preview 0ms OK",
+          "2026-09-11 21:45:42 live_preview 0ms OK",
+          "2026-09-11 21:45:42 live_preview 0ms OK",
+          "2026-09-11 21:48:50 live_preview 0ms OK",
+          "2026-09-11 21:48:50 live_preview 0ms OK",
+          "2026-09-11 21:48:50 live_preview 0ms OK",
+          "2026-09-11 22:12:25 live_preview 31ms OK",
+          "2026-09-11 22:12:25 live_preview 0ms OK",
+          "2026-09-11 22:12:26 live_preview 0ms OK",
+          "2026-09-11 22:12:26 BOOT v2.13.1 RAM=15.9GB OK",
+          "2026-09-11 22:12:28 live_preview 1ms OK",
+          "2026-09-11 22:12:28 live_preview 1ms OK",
+          "2026-09-11 22:12:28 live_preview 1ms OK"
         ]
       }
     }
