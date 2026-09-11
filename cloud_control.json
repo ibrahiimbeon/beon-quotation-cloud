@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-09-11 17:55:02",
+  "updated_at": "2026-09-11 18:15:51",
   "updated_by": "Master Admin",
   "global_kill_switch": false,
   "global_kill_message": "تم إيقاف تشغيل التطبيق مؤقتاً لأعمال الصيانة والتحديث. يرجى مراجعة إدارة BeOn.",
@@ -23,18 +23,49 @@
       "hostname": "hp",
       "username": "ibrah",
       "os": "Windows 11",
-      "app_version": "2.9.0",
-      "last_seen": "2026-09-11 17:55:01",
+      "app_version": "2.10.0",
+      "last_seen": "2026-09-11 18:15:50",
       "stats": {
         "quotes_count": 10,
         "last_quote_at": "2026-09-11 17:55:01",
         "agent": "ibrahim",
         "ram_total_gb": 15.9,
-        "ram_free_gb": 10.6,
-        "ram_used_gb": 5.3,
+        "ram_free_gb": 10.2,
+        "ram_used_gb": 5.7,
         "disk_total_gb": 118.3,
-        "disk_free_gb": 3.3,
-        "disk_used_gb": 115.0
+        "disk_free_gb": 3.2,
+        "disk_used_gb": 115.1
+      },
+      "perf": {
+        "updated_at": "2026-09-11 18:15:50",
+        "lines": [
+          "2026-09-11 18:08:41 t_fast 12ms OK",
+          "2026-09-11 18:08:41 t_slow 250ms SLOW",
+          "2026-09-11 18:08:41 BOOT v2.10.0 RAM=15.9GB OK",
+          "2026-09-11 18:08:42 live_preview 75ms OK",
+          "2026-09-11 18:08:42 live_preview 0ms OK",
+          "2026-09-11 18:14:19 live_preview 37ms OK",
+          "2026-09-11 18:14:19 live_preview 0ms OK",
+          "2026-09-11 18:14:20 live_preview 0ms OK",
+          "2026-09-11 18:14:20 BOOT v2.10.0 RAM=15.9GB OK",
+          "2026-09-11 18:14:21 paint_sidebanner 12ms OK",
+          "2026-09-11 18:14:21 paint_memdouh 4ms OK",
+          "2026-09-11 18:14:21 paint_sidebanner 3ms OK",
+          "2026-09-11 18:14:21 paint_memdouh 2ms OK",
+          "2026-09-11 18:14:35 paint_memdouh 0ms OK",
+          "2026-09-11 18:14:35 paint_memdouh 0ms OK",
+          "2026-09-11 18:14:35 paint_memdouh 0ms OK",
+          "2026-09-11 18:14:35 paint_memdouh 0ms OK",
+          "2026-09-11 18:14:35 paint_memdouh 0ms OK",
+          "2026-09-11 18:14:35 paint_memdouh 0ms OK",
+          "2026-09-11 18:14:35 paint_memdouh 6ms OK",
+          "2026-09-11 18:14:42 paint_sidebanner 3ms OK",
+          "2026-09-11 18:14:42 paint_memdouh 1ms OK",
+          "2026-09-11 18:14:45 paint_sidebanner 2ms OK",
+          "2026-09-11 18:14:45 paint_memdouh 1ms OK",
+          "2026-09-11 18:14:45 paint_sidebanner 2ms OK",
+          "2026-09-11 18:14:45 paint_memdouh 1ms OK"
+        ]
       }
     }
   },
