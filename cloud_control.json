@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-09-12 21:23:58",
+  "updated_at": "2026-09-12 21:36:13",
   "updated_by": "Master Admin",
   "global_kill_switch": false,
   "global_kill_message": "تم إيقاف تشغيل التطبيق مؤقتاً لأعمال الصيانة والتحديث. يرجى مراجعة إدارة BeOn.",
@@ -24,25 +24,21 @@
       "username": "ibrah",
       "os": "Windows 11",
       "app_version": "2.14.3",
-      "last_seen": "2026-09-12 21:23:58",
+      "last_seen": "2026-09-12 21:36:11",
       "stats": {
         "quotes_count": 2,
         "last_quote_at": "2026-09-12 18:20:42",
         "agent": "ibrahim",
         "ram_total_gb": 15.9,
-        "ram_free_gb": 6.7,
-        "ram_used_gb": 9.2,
+        "ram_free_gb": 6.4,
+        "ram_used_gb": 9.5,
         "disk_total_gb": 118.3,
-        "disk_free_gb": 3.4,
-        "disk_used_gb": 114.9
+        "disk_free_gb": 3.1,
+        "disk_used_gb": 115.2
       },
       "perf": {
-        "updated_at": "2026-09-12 21:23:58",
+        "updated_at": "2026-09-12 21:36:11",
         "lines": [
-          "2026-09-12 19:43:46 live_preview 0ms OK",
-          "2026-09-12 19:43:48 live_preview 1ms OK",
-          "2026-09-12 19:43:48 BOOT v2.14.3 RAM=15.9GB OK",
-          "2026-09-12 19:44:21 close_begin 0ms OK",
           "2026-09-12 19:44:21 close_accepted 7ms OK",
           "2026-09-12 21:05:05 live_preview 38ms OK",
           "2026-09-12 21:05:05 live_preview 0ms OK",
@@ -68,7 +64,11 @@
           "2026-09-12 21:22:26 live_preview 33ms OK",
           "2026-09-12 21:22:26 live_preview 0ms OK",
           "2026-09-12 21:22:27 live_preview 0ms OK",
-          "2026-09-12 21:22:28 BOOT v2.14.3 RAM=15.9GB OK"
+          "2026-09-12 21:22:28 BOOT v2.14.3 RAM=15.9GB OK",
+          "2026-09-12 21:34:39 live_preview 31ms OK",
+          "2026-09-12 21:34:39 live_preview 0ms OK",
+          "2026-09-12 21:34:40 live_preview 0ms OK",
+          "2026-09-12 21:34:41 BOOT v2.14.3 RAM=15.9GB OK"
         ]
       }
     }
