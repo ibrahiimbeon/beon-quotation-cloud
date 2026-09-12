@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-09-12 18:20:42",
+  "updated_at": "2026-09-12 18:42:23",
   "updated_by": "Master Admin",
   "global_kill_switch": false,
   "global_kill_message": "تم إيقاف تشغيل التطبيق مؤقتاً لأعمال الصيانة والتحديث. يرجى مراجعة إدارة BeOn.",
@@ -24,7 +24,7 @@
       "username": "ibrah",
       "os": "Windows 11",
       "app_version": "2.14.3",
-      "last_seen": "2026-09-12 18:20:42",
+      "last_seen": "2026-09-12 18:42:23",
       "stats": {
         "quotes_count": 2,
         "last_quote_at": "2026-09-12 18:20:42",
@@ -34,12 +34,11 @@
         "ram_used_gb": 8.3,
         "disk_total_gb": 118.3,
         "disk_free_gb": 3.9,
-        "disk_used_gb": 114.3
+        "disk_used_gb": 114.4
       },
       "perf": {
-        "updated_at": "2026-09-12 18:20:42",
+        "updated_at": "2026-09-12 18:42:23",
         "lines": [
-          "2026-09-12 16:05:39 live_preview 0ms OK",
           "2026-09-12 16:05:40 live_preview 0ms OK",
           "2026-09-12 16:05:42 live_preview 0ms OK",
           "2026-09-12 16:05:49 preview_pdf 276ms OK",
@@ -68,7 +67,8 @@
           "2026-09-12 18:20:34 live_preview 2ms OK",
           "2026-09-12 18:20:35 live_preview 0ms OK",
           "2026-09-12 18:20:35 live_preview 0ms OK",
-          "2026-09-12 18:20:42 save_pdf 381ms OK"
+          "2026-09-12 18:20:42 save_pdf 381ms OK",
+          "2026-09-12 18:20:42 save_docx 150ms OK"
         ]
       }
     }
