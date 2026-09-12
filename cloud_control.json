@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-09-12 16:30:33",
+  "updated_at": "2026-09-12 16:38:06",
   "updated_by": "Master Admin",
   "global_kill_switch": false,
   "global_kill_message": "تم إيقاف تشغيل التطبيق مؤقتاً لأعمال الصيانة والتحديث. يرجى مراجعة إدارة BeOn.",
@@ -23,32 +23,22 @@
       "hostname": "hp",
       "username": "ibrah",
       "os": "Windows 11",
-      "app_version": "2.14.0",
-      "last_seen": "2026-09-12 16:30:33",
+      "app_version": "2.13.2",
+      "last_seen": "2026-09-12 16:38:05",
       "stats": {
         "quotes_count": 1,
         "last_quote_at": "2026-09-11 20:43:56",
         "agent": "ibrahim",
         "ram_total_gb": 15.9,
-        "ram_free_gb": 6.9,
-        "ram_used_gb": 9.0,
+        "ram_free_gb": 7.6,
+        "ram_used_gb": 8.3,
         "disk_total_gb": 118.3,
-        "disk_free_gb": 3.9,
-        "disk_used_gb": 114.4
+        "disk_free_gb": 3.7,
+        "disk_used_gb": 114.6
       },
       "perf": {
-        "updated_at": "2026-09-12 16:07:06",
+        "updated_at": "2026-09-12 16:38:05",
         "lines": [
-          "2026-09-12 00:37:04 live_preview 0ms OK",
-          "2026-09-12 00:37:05 BOOT v2.14.3 RAM=15.9GB OK",
-          "2026-09-12 00:37:19 live_preview 0ms OK",
-          "2026-09-12 00:37:20 live_preview 0ms OK",
-          "2026-09-12 00:37:21 preview_pdf 277ms OK",
-          "2026-09-12 00:38:15 live_preview 0ms OK",
-          "2026-09-12 00:38:15 live_preview 0ms OK",
-          "2026-09-12 00:38:25 close_begin 0ms OK",
-          "2026-09-12 00:38:25 close_accepted 5ms OK",
-          "2026-09-12 13:27:46 live_preview 48ms OK",
           "2026-09-12 13:27:46 live_preview 0ms OK",
           "2026-09-12 13:27:48 live_preview 0ms OK",
           "2026-09-12 13:27:48 BOOT v2.14.3 RAM=15.9GB OK",
@@ -68,7 +58,17 @@
           "2026-09-12 16:05:39 live_preview 0ms OK",
           "2026-09-12 16:05:40 live_preview 0ms OK",
           "2026-09-12 16:05:42 live_preview 0ms OK",
-          "2026-09-12 16:05:49 preview_pdf 276ms OK"
+          "2026-09-12 16:05:49 preview_pdf 276ms OK",
+          "2026-09-12 16:30:59 close_begin 0ms OK",
+          "2026-09-12 16:30:59 close_accepted 2ms OK",
+          "2026-09-12 16:36:34 live_preview 114ms OK",
+          "2026-09-12 16:36:34 live_preview 0ms OK",
+          "2026-09-12 16:36:35 live_preview 0ms OK",
+          "2026-09-12 16:36:35 BOOT v2.13.2 RAM=15.9GB OK",
+          "2026-09-12 16:37:58 live_preview 2ms OK",
+          "2026-09-12 16:37:58 live_preview 2ms OK",
+          "2026-09-12 16:38:00 live_preview 1ms OK",
+          "2026-09-12 16:38:01 preview_pdf 347ms OK"
         ]
       }
     }
