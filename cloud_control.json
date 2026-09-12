@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-09-12 18:42:23",
+  "updated_at": "2026-09-12 19:07:24",
   "updated_by": "Master Admin",
   "global_kill_switch": false,
   "global_kill_message": "تم إيقاف تشغيل التطبيق مؤقتاً لأعمال الصيانة والتحديث. يرجى مراجعة إدارة BeOn.",
@@ -24,14 +24,14 @@
       "username": "ibrah",
       "os": "Windows 11",
       "app_version": "2.14.3",
-      "last_seen": "2026-09-12 18:42:23",
+      "last_seen": "2026-09-12 19:07:23",
       "stats": {
         "quotes_count": 2,
         "last_quote_at": "2026-09-12 18:20:42",
         "agent": "ibrahim",
         "ram_total_gb": 15.9,
-        "ram_free_gb": 7.6,
-        "ram_used_gb": 8.3,
+        "ram_free_gb": 5.5,
+        "ram_used_gb": 10.4,
         "disk_total_gb": 118.3,
         "disk_free_gb": 3.9,
         "disk_used_gb": 114.4
